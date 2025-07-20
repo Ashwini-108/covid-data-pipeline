@@ -1,3 +1,4 @@
-boto3
-pandas
 requests
+pandas
+boto3
+mysql-connector-python
